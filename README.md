@@ -10,7 +10,7 @@ This is a simple webpage demonstrating a product catalog using HTML and Bootstra
 
 ## Preview
 
-![Product Catalog Preview](./images/product-catlog.jpeg)
+![Product Catalog Preview](./imges/product-catlog.jpeg)
 
 ## Usage
 
